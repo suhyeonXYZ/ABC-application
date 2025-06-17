@@ -19,4 +19,4 @@ spec:
       - name: backend
         image: 833558168913.dkr.ecr.ap-northeast-2.amazonaws.com/lic-team-prj/backend:0.1.0
         ports:
-        - containerPort: 80
+        - containerPort: 8000
